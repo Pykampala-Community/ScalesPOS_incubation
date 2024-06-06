@@ -1,2 +1,2 @@
-# ScalesORM_incubation
+# ScalesPOS_incubation
 A point of sale software implementation
